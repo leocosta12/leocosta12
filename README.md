@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "200px" align = "right">
+<img src = "banner.gif" width = "210px" align = "right">
 
 Olá, Um prazer ter você por aqui, meu nome é Leonardo da Costa e aqui está um pouco sobre minha carreira!
 <div>
