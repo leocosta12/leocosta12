@@ -12,7 +12,7 @@ Olá, Um prazer ter você por aqui, meu nome é Leonardo da Costa e aqui está u
 
 - Estudante de Gestão de TI
 - Aprendendo com o CEV 
-- Tentando se tornar um especialista em Python.
+- Apaixonado por tecnologia.
 
 ---
 
